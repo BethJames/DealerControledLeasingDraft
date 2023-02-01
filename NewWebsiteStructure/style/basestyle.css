@@ -12,6 +12,7 @@ header {
     position: fixed;
     top:0;
     width: 100%;
+    background-color: #fff;
 }
 #contactBanner {
     background-color: lightslategray;
@@ -51,8 +52,15 @@ header {
     margin: 0;
 }
 
-
 main { 
-    margin-top: 50px;
-    height: 2000px;
+    margin-top: 80px;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    box-shadow: 0px -5px 5px rgba(0, 0, 0, .5);
+    width: 100%;
+    padding-bottom: 20px;
 }
