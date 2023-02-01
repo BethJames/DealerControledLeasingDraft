@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.dealercontrolledleasing.com	TRUE	/	FALSE	1999999999	XBasic_SessionId	vfcbneooejw4wwm13htzn0hg
+www.dealercontrolledleasing.com	TRUE	/	FALSE	1999999999	SameSite	None
+
