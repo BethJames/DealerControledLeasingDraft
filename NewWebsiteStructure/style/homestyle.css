@@ -10,6 +10,52 @@
     background: rgba(255,255,255,.6);
 }
 
+#homeAboutUs {
+padding: 15px;
+background-color: #0ff;
+}
+
+#features {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#features div{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 15px;
+}
+
 #homeTeam {
     padding: 15px;
+}
+
+#teamBucket {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#teamBucket div{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    min-height: 300px;
+    padding: 15px;
+}
+
+#teamBucket image{
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+    height: auto;
+}
+
+#homeCompanyPartners {
+    padding: 15px;
+    background-color: #0ff;
 }
